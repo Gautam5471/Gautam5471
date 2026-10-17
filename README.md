@@ -1,105 +1,158 @@
-# Hey, I'm Gautam Kumar! 👋
+ <div align="center">
 
-### Full Stack Developer | MERN Stack | DSA & Open Source
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:8957E5&height=200&section=header&text=Gautam%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Gautam Kumar banner"/>
 
-I'm a B.Tech student in **Computer Science and Engineering (AI/ML)** at Mirai School of Technology, graduating in 2029.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Web+Applications+%F0%9F%92%BB;Exploring+the+MERN+Stack+%F0%9F%9A%80;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Learning+Through+Open+Source+%F0%9F%8C%8D" alt="Typing animation"/>
 
-I enjoy building web applications, solving DSA problems, and contributing to open-source projects. I'm continuously learning new technologies and improving my development skills.
+<p>
+<a href="https://github.com/Gautam5471"><img src="https://img.shields.io/badge/GitHub-Gautam5471-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gautam-kumar-a8a57535b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Gautam5471/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
-- 💻 Exploring full-stack development with the MERN stack
-- 🌱 Learning by building real-world projects
-- 🧠 Solved 225+ problems on LeetCode and 100+ on Codeforces
-- 🌍 Contributed to open source with a merged PR in PACT OS
-- 🎯 Working towards becoming a better software developer
+</div>
 
----
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in **Computer Science and Engineering (AI/ML)** at Mirai School of Technology; graduating in 2029.
+- 💻 Building web applications using the **MERN stack**.
+- 🧠 Solving Data Structures and Algorithms problems and practicing competitive programming.
+- 🌍 Contributing to open-source projects through bug fixes, features, documentation, and testing.
+- 🛠️ Interested in clean code, software testing, debugging, and collaborative development.
+- 🚀 Learning by building projects and solving real-world problems.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Frontend Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="HTML CSS JavaScript React"/>
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Node.js Express MongoDB"/>
 
 **Programming Languages & Tools**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode&perline=5" alt="C++ Python Git GitHub VS Code"/>
 
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 1. 🌦️ Weather Detector
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A web application that displays weather information.
+### 🌦️ Weather Detector
 
-- **Live Demo:** [View Website](https://gautam5471.github.io/weather.com2/)
-- **Source Code:** [GitHub Repository](https://github.com/Gautam5471/weather.com2)
+A web application that displays weather information through a simple interface.
 
-### 2. 🏥 Healthcare Website
+- Weather-focused web interface
+- Frontend development practice
 
-A healthcare website project built as part of my web development journey.
+[🌐 Live Demo](https://gautam5471.github.io/weather.com2/) · [💻 Source Code](https://github.com/Gautam5471/weather.com2)
 
-- **Live Demo:** [View Website](https://gautam5471.github.io/healtcare.com/)
-- **Source Code:** [GitHub Repository](https://github.com/Gautam5471/healtcare.com)
+</td>
+<td width="50%" valign="top">
 
----
+### 🏥 Healthcare Website
+
+A healthcare-focused website developed as part of my web development journey.
+
+- Healthcare-oriented web design
+- Frontend development practice
+
+[🌐 Live Demo](https://gautam5471.github.io/healtcare.com/) · [💻 Source Code](https://github.com/Gautam5471/healtcare.com)
+
+</td>
+</tr>
+</table>
 
 ## 🌍 Open Source Contributions
 
-### PACT OS — Merged Pull Request
+I contribute to open-source projects by investigating issues, implementing fixes, improving documentation, and writing tests.
 
-**[PR #521: Enforce 100-character habit name limit](https://github.com/TheVicky1/Pact_OS/pull/521)**
+### ✅ Selected Merged Contributions
 
-- Added a 100-character maximum for habit names using Zod validation.
-- Added boundary tests for 99-, 100-, and 101-character inputs.
-- Improved input validation and automated test coverage.
-- Successfully contributed code to an open-source project.
+- 🎨 **[KanaDojo — Shoji Glow Theme (#32190)](https://github.com/lingdojo/kana-dojo/pull/32190)** — Added a new community color theme.
+- 🧹 **[Project Room — Documentation Link Exceptions (#2803)](https://github.com/Uuriko/project-room/pull/2803)** — Removed obsolete missing-file exceptions.
+- 🛠️ **[PACT OS — Habit Name Validation (#521)](https://github.com/TheVicky1/Pact_OS/pull/521)** — Enforced a 100-character habit-name limit and added boundary tests.
 
-I'm looking forward to making more meaningful contributions to open-source communities.
+### 🔄 Open Pull Requests
 
----
+The following PRs were open in my latest GitHub search results.
+
+| Repository | Contribution | Status |
+|---|---|---|
+| [ToolJet](https://github.com/Gautam5471/ToolJet/pull/1) | [Zoho Books marketplace plugin](https://github.com/Gautam5471/ToolJet/pull/1) | 🟡 Open |
+| [KanaDojo](https://github.com/lingdojo/kana-dojo/pull/32217) | [Add a new Japan fact](https://github.com/lingdojo/kana-dojo/pull/32217) | 🟡 Open |
+| [Pipedream](https://github.com/PipedreamHQ/pipedream/pull/22194) | [eBay listing and offer management actions](https://github.com/PipedreamHQ/pipedream/pull/22194) | 🟡 Open |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/42622) | [Fix search in post attachments](https://github.com/RocketChat/Rocket.Chat/pull/42622) | 🟡 Open |
+| [First Contributions](https://github.com/firstcontributions/first-contributions/pull/126068) | [Clarify upstream workflow](https://github.com/firstcontributions/first-contributions/pull/126068) | 🟡 Open |
+| [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app/pull/7822) | [Apply price card glow-up to Price XP sections](https://github.com/openfoodfacts/smooth-app/pull/7822) | 🟡 Open |
+
+<p>
+<a href="https://github.com/search?q=author%3AGautam5471+is%3Apr+is%3Amerged+-user%3Asuryanshasayth936-ux&type=pullrequests"><img src="https://img.shields.io/badge/All%20Merged%20PRs-238636?style=for-the-badge&logo=github" alt="Merged PRs"/></a>
+<a href="https://github.com/search?q=author%3AGautam5471+is%3Apr+is%3Aopen+-user%3Asuryanshasayth936-ux&type=pullrequests"><img src="https://img.shields.io/badge/All%20Open%20PRs-1F6FEB?style=for-the-badge&logo=github" alt="Open PRs"/></a>
+<a href="https://github.com/search?q=author%3AGautam5471+is%3Apr+is%3Aclosed+-user%3Asuryanshasayth936-ux&type=pullrequests"><img src="https://img.shields.io/badge/All%20Closed%20PRs-8957E5?style=for-the-badge&logo=github" alt="Closed PRs"/></a>
+</p>
+
+*College-project repositories under `suryanshasayth936-ux` are intentionally excluded from the PR search links.*
 
 ## 🧠 DSA & Competitive Programming
 
-I regularly practice Data Structures and Algorithms to strengthen my problem-solving skills.
+<p>
+<a href="https://leetcode.com/u/Gautam5471/"><img src="https://img.shields.io/badge/LeetCode-225%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/gautamkumar5471"><img src="https://img.shields.io/badge/Codeforces-100%2B%20Problems-1F8ACB?style=flat-square&logo=codeforces" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/gautam_5471"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef" alt="CodeChef"/></a>
+</p>
 
-| Platform | Profile | Progress |
-|---|---|---|
-| LeetCode | [Gautam5471](https://leetcode.com/u/Gautam5471/) | 225+ problems solved |
-| Codeforces | [gautamkumar5471](https://codeforces.com/profile/gautamkumar5471) | 100+ problems solved |
-| CodeChef | [gautam_5471](https://www.codechef.com/users/gautam_5471) | View Profile |
-
----
+I regularly practice problem-solving to improve my understanding of algorithms, data structures, and computational thinking.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam5471&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam5471&layout=compact&theme=github_dark&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gautam5471&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam5471&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Gautam5471&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam5471&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gautam5471/Gautam5471/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Gautam5471)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gautam-kumar-a8a57535b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gautam5471/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/gautamkumar5471)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/gautam_5471)
+<div align="center">
 
----
+<a href="https://github.com/Gautam5471"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gautam-kumar-a8a57535b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Gautam5471/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/gautamkumar5471"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/gautam_5471"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 
-*Always learning, building, and contributing. 🚀*
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:8957E5&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+**Always learning, building, and contributing. 🚀**
+
+</div>
