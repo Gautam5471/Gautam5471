@@ -74,11 +74,14 @@ A healthcare-focused website developed as part of my web development journey.
 
 I contribute to open-source projects by investigating issues, implementing fixes, improving documentation, and writing tests.
 
-### ✅ Selected Merged Contributions
+## 🏆 Selected Merged Contributions
 
-- 🎨 **[KanaDojo — Shoji Glow Theme (#32190)](https://github.com/lingdojo/kana-dojo/pull/32190)** — Added a new community color theme.
-- 🧹 **[Project Room — Documentation Link Exceptions (#2803)](https://github.com/Uuriko/project-room/pull/2803)** — Removed obsolete missing-file exceptions.
-- 🛠️ **[PACT OS — Habit Name Validation (#521)](https://github.com/TheVicky1/Pact_OS/pull/521)** — Enforced a 100-character habit-name limit and added boundary tests.
+- 🔐 **[EGC — Protect OpenCode Configuration Files](https://github.com/Fmarzochi/EGC/pull/1970)** — Improved security by protecting OpenCode configuration files across supported MCP registration locations.
+- 🛡️ **[claude-soma-lite — Enqueue Configuration Validation Warning](https://github.com/techfreakworm/claude-soma-lite/pull/74)** — Fixed silent validation skips when `soma.json` cannot be loaded by adding clear warnings and regression tests while preserving existing enqueue behavior. **217 focused tests passed across two test files, with 5 skipped due to unavailable tmux.**
+- 🧪 **[Leavy — Jest Setup & Formatting Tests](https://github.com/langchengit/leavy/pull/7)** — Set up Jest with the `jest-expo` preset, added unit tests for formatting helpers and leave-time status logic, and documented testing and verification commands. **13 tests passed across 2 test suites.**
+- 🎨 **[KanaDojo — Shoji Glow Theme](https://github.com/lingdojo/kana-dojo/pull/32190)** — Added a new community color theme.
+- 🧹 **[Project Room — Documentation Link Exceptions](https://github.com/Uuriko/project-room/pull/2803)** — Removed obsolete exceptions for missing documentation links.
+- ✅ **[PACT OS — Habit Name Validation](https://github.com/TheVicky1/Pact_OS/pull/521)** — Added a 100-character habit-name limit with boundary validation tests.
 
 ### 🔄 Open Pull Requests
 
